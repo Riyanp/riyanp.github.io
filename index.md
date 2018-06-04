@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## </>Riyan Pramana
 
-You can use the [editor on GitHub](https://github.com/Riyanp/riyanp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my first personal repository on github, in this site I will put Javas code that I worked on the past 1 year. It's mainly about Play framework and Spring framework. I'm gonna share how to set up and what things we need to know about using this java framework. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to install 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Header 1 Play framework
 
 ```markdown
 Syntax highlighted code block
